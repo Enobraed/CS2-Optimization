@@ -12,7 +12,7 @@
 4. Перемещение SDK Tools
 5. Перемещение SDK для создания карт
 6. Перемещение Vulkan
-7. Перемещение lv (Не используйте параметр запуска -lv) При съемке могут появиться микрофризы
+7. Перемещение lv (Не используйте параметр запуска -lv) При стрельбе могут появиться микрофризы. Если это так, верните lv на исходное место
 8. Перемещение фона меню
 9. Перемещение анимации и эффектов интерфейса
 10. Перемещение графического окна в настройках
@@ -41,7 +41,7 @@ After optimization you will be able to continue playing on servers with VAC, FAC
 4. Moving SDK Tools
 5. Moving SDK for creating maps
 6. Moving Vulkan
-7. Moving lv (Do not use the -lv startup parameter) Micro-friezes may appear when shooting
+7. Moving lv (Do not use the -lv startup parameter) Micro-friezes may appear when shooting. If so, return lv to its original location
 8. Moving menu background
 9. Moving animations and interface effects
 10. Moving the graphics window in the settings

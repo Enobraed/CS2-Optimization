@@ -2,7 +2,7 @@
 
 <h2 align="center">RUS</h2>
 
-Скрипт CS2 Optimization.bat перемещает ненужные файлы, которые не требуются большинству функций, в папку .backup для их последующего восстановления в случае возникновения проблем. Это позволит повысить производительность и плавность игры.
+Скрипт CS2 Optimization.bat перемещает ненужные функции, которые не требуются большинству пользователей, в папку .backup для их последующего восстановления в случае возникновения проблем. Это позволит повысить производительность и плавность игры.
 После оптимизации вы сможете продолжать играть на серверах с защитой VAC, FACEIT AC и GameGuard.
 
 ### Функции
@@ -31,7 +31,7 @@
 ---
 <h2 align="center">ENG</h2>
 
-The CS2 Optimization.bat script moves unnecessary files, which are not required by most features, to the .backup folder to restore them later in case of problems. This will improve the performance and smoothness of the game.
+The CS2 Optimization.bat script moves unnecessary features that are not required by most users to the .backup folder. that most users do not need, to the .backup folder so that you can restore them later in case of problems. restore them in case of problems. This will improve performance and smoothness of the game.
 After optimization you will be able to continue playing on servers with VAC, FACEIT AC and GameGuard protection.
 
 ### Functions
